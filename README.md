@@ -28,4 +28,4 @@ Database: MongoDB or PostgreSQL for storing symptoms, diseases, and recommendati
 PDF Generation: ReportLab or FPDF for creating downloadable reports.
 
 
-Visit Site - 
+Visit Site - https://medical-disease-diagnosis.vercel.app/
