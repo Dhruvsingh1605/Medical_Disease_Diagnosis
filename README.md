@@ -1,4 +1,6 @@
-Disease Diagnosis System 🌡️
+##Disease Diagnosis System 🌡️
+
+
 Overview
 The Disease Diagnosis System is an intelligent, user-friendly application that helps predict diseases based on symptoms and general inputs. This system also provides detailed recommendations, including precautions, diets, and medications tailored to the predicted disease. Additionally, users can download their input symptoms and the resulting diagnosis as a report for reference.
 
