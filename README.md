@@ -69,7 +69,8 @@ The Disease Diagnosis System is an advanced, user-friendly application designed 
 
 
 
-    ## Click this link for demo website:
+  ## Click this Link for Website Demo:
+      https://medical-disease-diagnosis.vercel.app/
 
     Visit Site - https://medical-disease-diagnosis.vercel.app/
 
