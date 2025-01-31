@@ -27,5 +27,7 @@ Libraries: TensorFlow, PyTorch, or Scikit-learn.
 Database: MongoDB or PostgreSQL for storing symptoms, diseases, and recommendations.
 PDF Generation: ReportLab or FPDF for creating downloadable reports.
 
+![Alt text] (/home/dhruv/Pictures/Screenshots/Screenshot from 2025-01-31 15-13-06.png)
+
 
 Visit Site - https://medical-disease-diagnosis.vercel.app/
